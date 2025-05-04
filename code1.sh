@@ -1,1 +1,1 @@
-date +%a
+echo "hello"
